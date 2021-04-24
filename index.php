@@ -99,7 +99,7 @@
 									 Можно считать что мой первый опыт в программировании это создание этого сайта.
 								</p>
 							</div>
-							<a href="https://github.com/rpcs3" target="_blank">
+							<a href="https://github.com/SaivanKarnet/www-it.salvas.net" target="_blank">
 							<div class="github-btn-button">
 								<div class="github-ico-button">
 								</div>
